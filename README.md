@@ -11,25 +11,25 @@ Intro2Python - Set 0
 Intro2DataViz - Set 1
 
 - Introduction to DataViz - Matplotlib and Seaborn examples
-  🐍 Python Notebook, 📹 Recorded Video, 🎓📡 Optional Drop-in Lecture 
+  * 🐍 Python Notebook, 📹 Recorded Video, 🎓📡 Optional Drop-in Lecture 
 - Introduction to DataViz - Plotnine library examples
-  🐍 Python Notebook, 📹 Recorded Video, 🎓📡 Optional Drop-in Lecture 
+  * 🐍 Python Notebook, 📹 Recorded Video, 🎓📡 Optional Drop-in Lecture 
 
 Intro2Altair - Set 2
 
 - Introduction to Data viz with Altair
-  🐍 Python Notebook, 📹 Recorded Video, 🎓📡 Optional Drop-in Lecture 
+  * 🐍 Python Notebook, 📹 Recorded Video, 🎓📡 Optional Drop-in Lecture 
 - Interactivity with Altair
-  🐍 Python Notebook, 📹 Recorded Video
+  * 🐍 Python Notebook, 📹 Recorded Video
 
 Further examples - Set 3
 
 - Case study style examples with Altair: MultiRing visualization and Time Series example
-  🐍 Python Notebook
+  * 🐍 Python Notebook
 
 Specific use cases with Altair - Set 4 as Extra
 
 - Geographical Data examples
-  🐍 Python Notebook
+  * 🐍 Python Notebook
 - Visualizing Text Data and working with different file types
-  🐍 Python Notebook
+  * 🐍 Python Notebook
