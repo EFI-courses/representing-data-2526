@@ -27,7 +27,7 @@ Python files for Representing Data (RD) EFI module for 2025/2026
 - Case study style examples with Altair: MultiRing visualization and Time Series example
   * 🐍 Python Notebook
 
-**Specific use cases with Altair** - *Set 4 as Extra*
+**Specific use cases** - *Set 4 as Extra*
 
 - Geographical Data examples
   * 🐍 Python Notebook
