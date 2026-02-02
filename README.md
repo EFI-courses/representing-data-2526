@@ -4,9 +4,9 @@ Python files for Representing Data (RD) EFI module for 2025/2026
 Intro2Python - Set 0
 
 - Introduction to Python/Jupyter Notebook
-  🐍 Python Notebook, 📹 Recorded Video
+  * 🐍 Python Notebook, 📹 Recorded Video
 - Introduction to Pandas library
-  🐍 Python Notebook, 📹 Recorded Video
+  * 🐍 Python Notebook, 📹 Recorded Video
 
 Intro2DataViz - Set 1
 
