@@ -1,5 +1,5 @@
 # Representing-Data(RD)-2526
-Python files for Representing Data (RD) EFI module for 2025/2026
+Python files and necessary other details for Representing Data (RD) EFI module for 2025/2026 on specific exercise set folders
 
 **Intro2Python** - *Set 0*
 
