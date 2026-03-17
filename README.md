@@ -17,19 +17,14 @@ Python files and necessary other details for Representing Data (RD) EFI module f
 
 **Intro2Altair** - *Set 2*
 
-- Introduction to Data viz with Altair
-  * 🐍 Python Notebook, 📹 Recorded Video, 🎓📡 Optional Drop-in Lecture 
+- Introduction to Data viz with Plotnine
+  * 🐍 Python Notebook, 🎓📡 Optional Drop-in Lecture 
 - Interactivity with Altair
-  * 🐍 Python Notebook, 📹 Recorded Video
+  * 🐍 Python Notebook, 🎓📡 Optional Drop-in Lecture, 📹 Recorded Video
 
-**Further examples** - *Set 3*
+**Specific use-cases / examples** - *Set 3*
 
 - Case study style examples with Altair: MultiRing visualization and Time Series example
   * 🐍 Python Notebook
+  * 📹 Recorded Video from last year
 
-**Specific use cases** - *Set 4 as Extra*
-
-- Geographical Data examples
-  * 🐍 Python Notebook
-- Visualizing Text Data and working with different file types
-  * 🐍 Python Notebook
